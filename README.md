@@ -14,7 +14,7 @@ https://github.com/vcu-villalobosss/root_homework1/workflows/Pylint/badge.svg
 
 should become
 
-https://github.com/villalobosss/root_homework1/workflows/Pylint/badge.svg
+https://github.com/vcu-villalobosss/root_homework1/workflows/Pylint/badge.svg
 
 Edit the file ./homework1/hw1.py to make the three github actions pass.
 
@@ -24,4 +24,4 @@ https://github.com/vcu-villalobosss/root_homework1
 
 but
 
-https://github.com/villalobosss/root_homework1
+https://github.com/vcu-villalobosss/root_homework1
